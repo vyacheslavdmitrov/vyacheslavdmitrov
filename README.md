@@ -92,7 +92,7 @@ PowerShell-based backup framework for PostgreSQL databases, QSShare, certificate
 ## Contact
 
 - Email: [vyacheslavdmitrov@gmail.com](mailto:vyacheslavdmitrov@gmail.com)
-- Telegram: [@mr_Dmitrov]((https://t.me/mr_Dmitrov))
+- Telegram: [@mr_Dmitrov](https://t.me/mr_Dmitrov)
 - Habr Career: [career.habr.com/mitro7](https://career.habr.com/mitro7)
 - Portfolio: [vyacheslavdmitrov.github.io/portfolio](https://vyacheslavdmitrov.github.io/portfolio/)
 - Instagram: [@vivadmitrov](https://www.instagram.com/vivadmitrov/)
