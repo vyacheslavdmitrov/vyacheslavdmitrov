@@ -74,10 +74,10 @@ PowerShell-based backup framework for PostgreSQL databases, QSShare, certificate
 🌐 **Portfolio:**  
 
 🇷🇺 Russian version:  
-[vyacheslavdmitrov.github.io/portfolio](https://vyacheslavdmitrov.github.io/portfolio/)
+[vyacheslavdmitrov.github.io/portfolio](https://vyacheslavdmitrov.github.io/portfolio/?utm_source=github&utm_medium=referral&utm_campaign=profile)
 
 🇬🇧 English version:  
-[vyacheslavdmitrov.github.io/portfolio/eng](https://vyacheslavdmitrov.github.io/portfolio/eng/)
+[vyacheslavdmitrov.github.io/portfolio/eng](https://vyacheslavdmitrov.github.io/portfolio/eng/?utm_source=github&utm_medium=referral&utm_campaign=profile)
 
 ## Current focus
 
